@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./VisibilityRepWindow.html" title="pfc.gui.windows.algorithms.VisibilityRepWindow" alt="" coords="16,11,355,168"/>
+<area shape="rect" id="node1" href="./VisibilityRepWindow.html" title="&lt;TABLE&gt;" alt="" coords="5,5,365,173"/>
+<area shape="rect" id="node2_1" href="./UpwardPolylineWindow.html" title="pfc.gui.windows.algorithms.UpwardPolylineWindow" alt="" coords="400,11,765,168"/>
+<area shape="rect" id="node2" href="./UpwardPolylineWindow.html" title="&lt;TABLE&gt;" alt="" coords="389,5,776,173"/>
+<area shape="rect" id="node3_2" href="./SLDominanceWindow.html" title="pfc.gui.windows.algorithms.SLDominanceWindow" alt="" coords="811,11,1232,168"/>
+<area shape="rect" id="node3" href="./SLDominanceWindow.html" title="&lt;TABLE&gt;" alt="" coords="800,5,1243,173"/>
+<area shape="rect" id="node4_3" href="./PolylineDominanceWindow.html" title="pfc.gui.windows.algorithms.PolylineDominanceWindow" alt="" coords="1278,11,1751,168"/>
+<area shape="rect" id="node4" href="./PolylineDominanceWindow.html" title="&lt;TABLE&gt;" alt="" coords="1267,5,1762,173"/>
+<area shape="rect" id="node5_4" href="./OrthogonalWindow.html" title="pfc.gui.windows.algorithms.OrthogonalWindow" alt="" coords="1797,11,2171,168"/>
+<area shape="rect" id="node5" href="./OrthogonalWindow.html" title="&lt;TABLE&gt;" alt="" coords="1786,5,2182,173"/>
+<area shape="rect" id="node6_5" href="./ConstrainedVisRepWindow.html" title="pfc.gui.windows.algorithms.ConstrainedVisRepWindow" alt="" coords="2217,11,2732,168"/>
+<area shape="rect" id="node6" href="./ConstrainedVisRepWindow.html" title="&lt;TABLE&gt;" alt="" coords="2207,5,2743,173"/>
+<area shape="rect" id="node7_6" href="./ConstrainedUpwardPolylineWindow.html" title="pfc.gui.windows.algorithms.ConstrainedUpwardPolylineWindow" alt="" coords="2778,11,3299,168"/>
+<area shape="rect" id="node7" href="./ConstrainedUpwardPolylineWindow.html" title="&lt;TABLE&gt;" alt="" coords="2767,5,3310,173"/>
+</map>

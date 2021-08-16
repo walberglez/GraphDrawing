@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../Vertex.html" title="pfc.models.Vertex" alt="" coords="682,2649,1249,3023"/>
+<area shape="rect" id="node1" href="../../Vertex.html" title="&lt;TABLE&gt;" alt="" coords="671,2643,1259,3029"/>
+<area shape="rect" id="node2_1" href="../../ObservableModel.html" title="pfc.models.ObservableModel" alt="" coords="1176,11,1309,93"/>
+<area shape="rect" id="node2" href="../../ObservableModel.html" title="&lt;TABLE&gt;" alt="" coords="1165,6,1320,98"/>
+<area shape="rect" id="node3_2" href="../../Graph.html" title="pfc.models.Graph" alt="" coords="111,891,1023,1530"/>
+<area shape="rect" id="node3" href="../../Graph.html" title="&lt;TABLE&gt;" alt="" coords="100,886,1033,1535"/>
+<area shape="rect" id="node4_3" href="../../Edge.html" title="pfc.models.Edge" alt="" coords="554,1877,1377,2589"/>
+<area shape="rect" id="node4" href="../../Edge.html" title="&lt;TABLE&gt;" alt="" coords="543,1872,1387,2595"/>
+<area shape="rect" id="node5_4" href="./UpwardPolylineAlgorithm.html" title="pfc.models.algorithms.polyline.UpwardPolylineAlgorithm" alt="" coords="1236,153,1564,413"/>
+<area shape="rect" id="node5" href="./UpwardPolylineAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="1225,147,1575,418"/>
+<area shape="rect" id="node6_5" href="../visibilityrepresentation/VisibilityRepresentationDrawing.html" title="pfc.models.algorithms.visibilityrepresentation.VisibilityRepresentationDrawing" alt="" coords="1903,1053,2551,1369"/>
+<area shape="rect" id="node6" href="../visibilityrepresentation/VisibilityRepresentationDrawing.html" title="&lt;TABLE&gt;" alt="" coords="1892,1047,2561,1374"/>
+<area shape="rect" id="node7_6" href="../visibilityrepresentation/VisibilityRepresentationAlgorithm.html" title="pfc.models.algorithms.visibilityrepresentation.VisibilityRepresentationAlgorithm" alt="" coords="741,472,1275,832"/>
+<area shape="rect" id="node7" href="../visibilityrepresentation/VisibilityRepresentationAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="730,467,1286,837"/>
+<area shape="rect" id="node8_7" href="../visibilityrepresentation/VertexSegment.html" title="pfc.models.algorithms.visibilityrepresentation.VertexSegment" alt="" coords="2337,1597,3156,1811"/>
+<area shape="rect" id="node8" href="../visibilityrepresentation/VertexSegment.html" title="&lt;TABLE&gt;" alt="" coords="2327,1592,3167,1816"/>
+<area shape="rect" id="node9_8" href="../visibilityrepresentation/EdgeSegment.html" title="pfc.models.algorithms.visibilityrepresentation.EdgeSegment" alt="" coords="1473,1590,2292,1818"/>
+<area shape="rect" id="node9" href="../visibilityrepresentation/EdgeSegment.html" title="&lt;TABLE&gt;" alt="" coords="1463,1585,2303,1823"/>
+<area shape="rect" id="node10_9" href="../../../resources/StringBundle.html" title="pfc.resources.StringBundle" alt="" coords="1069,1163,1326,1259"/>
+<area shape="rect" id="node10" href="../../../resources/StringBundle.html" title="&lt;TABLE&gt;" alt="" coords="1058,1157,1337,1264"/>
+<area shape="rect" id="node11_10" href="../../../views/display/algorithms/visibilityrepresentation/VisRepDrawingDisplayView.html" title="pfc.views.display.algorithms.visibilityrepresentation.VisRepDrawingDisplayView" alt="" coords="1525,487,2398,817"/>
+<area shape="rect" id="node11" href="../../../views/display/algorithms/visibilityrepresentation/VisRepDrawingDisplayView.html" title="&lt;TABLE&gt;" alt="" coords="1514,481,2409,823"/>
+</map>

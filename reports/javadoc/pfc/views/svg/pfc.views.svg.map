@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./VertexSvgView.html" title="pfc.views.svg.VertexSvgView" alt="" coords="15,11,457,95"/>
+<area shape="rect" id="node1" href="./VertexSvgView.html" title="&lt;TABLE&gt;" alt="" coords="5,6,467,101"/>
+<area shape="rect" id="node2_1" href="./GraphSvgView.html" title="pfc.views.svg.GraphSvgView" alt="" coords="503,11,767,95"/>
+<area shape="rect" id="node2" href="./GraphSvgView.html" title="&lt;TABLE&gt;" alt="" coords="492,6,777,101"/>
+<area shape="rect" id="node3_2" href="./EdgeSvgView.html" title="pfc.views.svg.EdgeSvgView" alt="" coords="813,11,1251,95"/>
+<area shape="rect" id="node3" href="./EdgeSvgView.html" title="&lt;TABLE&gt;" alt="" coords="802,6,1262,101"/>
+</map>

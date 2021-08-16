@@ -1,0 +1,116 @@
+
+yes=Sí
+no=No
+
+file_menu_text=Archivo
+	file_new_menu_text=Nuevo...
+	file_duplicate_menu_text=Duplicar
+	file_open_menu_text=Abrir...
+	file_open_from_the_web_menu_text=Abrir de la web...
+	file_save_menu_text=Guardar
+	file_save_as_menu_text=Guardar como...
+	file_print_menu_text=Imprimir...
+	file_exit_menu_text=Salir
+edit_menu_text=Editar
+	edit_undo_menu_text=Deshacer
+	edit_redo_menu_text=Rehacer
+	edit_cut_menu_text=Cortar
+	edit_copy_menu_text=Copiar
+	edit_paste_menu_text=Pegar
+	edit_select_all_menu_text=Seleccionar todos
+	edit_select_all_vertices_menu_text=Seleccionar todos vértices
+	edit_select_all_edges_menu_text=Seleccionar todas aristas
+algorithms_menu_text=Algoritmos
+	algorithms_visibility_representation_menu_text=Representación de Visibilidad 	
+windows_menu_text=Ventanas
+	windows_cascade_menu_text=Cascada
+	windows_show_side_by_side_menu_text=Dividir verticalmente
+	windows_show_stacked_menu_text=Dividir horizontalmente
+	windows_tile_menu_text=Dividir en cuadrados
+	windows_show_previous_menu_text=Mostrar anterior
+	windows_show_next_menu_text=Mostrar próxima
+help_menu_text=Ayuda
+	help_contents_menu_text=Contenidos...
+	help_about_menu_text=Acerca de...
+
+pointer_tool_tooltip=Seleccionar / Mover
+graph_tool_tooltip=Añadir vértices y aristas
+cut_tool_tooltip=Suprimir elementos
+	
+contract_button_tooltip=Contraer
+expand_button_tooltip=Expandir
+
+show_vertex_labels_button_tooltip=Mostrar etiqueta de vértices
+show_vertex_weights_button_tooltip=Mostrar pesos de vértices
+show_edge_labels_button_tooltip=Mostrar etiqueta de aristas
+show_edge_weights_button_tooltip=Mostrar pesos de aristas
+
+zoom_graph_button_tooltip=Zoom ver todo el grafo
+zoom_one_to_one_button_tooltip=Zoom 1:1
+zoom_in_button_tooltip=Aumentar
+zoom_out_button_tooltip=Reducir
+
+properties_menu_text=Propiedades
+	properties_vertex_menu_text=Vértice
+		properties_vertex_label_menu_text=Etiqueta
+		properties_vertex_radius_menu_text=Radio
+		properties_vertex_weight_menu_text=Peso
+	properties_edge_menu_text=Arista
+		properties_edge_label_menu_text=Etiqueta
+		properties_edge_thickness_menu_text=Espesor
+		properties_edge_weight_menu_text=Peso
+
+new_vertex_label_dialog_text=Nueva etiqueta:
+new_vertex_radius_dialog_text=Nuevo radio:
+new_vertex_weight_dialog_text=Nuevo peso:
+
+new_edge_label_dialog_text=Nueva etiqueta:
+new_edge_thickness_dialog_text=Nuevo espesor:
+new_edge_weight_dialog_text=Nuevo peso:
+
+new_graph_dialog_title=Nuevo grafo
+new_graph_dialog_edges_label=Grafo:
+new_graph_dialog_undirected_edges_label=Aristas no dirigidas
+new_graph_dialog_directed_edges_label=Aristas dirigidas
+new_graph_dialog_other_characteristics_label=Otras características:
+new_graph_dialog_allow_loops_label=Permitir bucles
+new_graph_dialog_allow_multiple_edges_label=Permitir aristas múltiples
+new_graph_dialog_allow_cycles_label=Permitir ciclos
+
+do_you_want_to_save_changes_dialog_message=Quieres salvar cambios a "%s"?
+ok_button_text=Ok
+cancel_button_text=Cancelar
+
+portable_network_graphics_file_description=Archivo de Portable Network Graphics (.png)
+scalable_vector_graphics_file_description=Archivo de Scalable Vector Graphics (.svg)
+visigraph_file_description=Archivo de Grafo de VisiGraph (.vsg)
+
+about_dialog_title=Acerca de
+about_dialog_by_label=Por %s
+about_dialog_version_label=Versión %s
+about_dialog_copyright_line_0=© Copyright %1s %2s.  Todos derechos reservados.
+about_dialog_copyright_line_1=Se publicó bajo los términos de Eclipse Public License 1.0.
+about_dialog_copyright_line_2=Visite %s
+about_dialog_includes_line_0=Este producto incluye software desarollado por Cameron Behar y otros contribuyentes
+about_dialog_includes_line_1=Ir a http://code.google.com/p/visigraph/
+
+graph_editor_window_title=Editor de Grafo
+visibility_representation_window_title=Representación de Visibilidad. Ejecución Paso a Paso
+
+step_by_step_control_title=Botones de Control Paso a Paso
+step_by_step_cancel=Cancelar la ejecución del algoritmo
+step_by_step_previous=Volver al paso de ejecución anterior
+step_by_step_next=Ir al próximo paso de ejecución
+step_by_step_end=Finalizar la ejecución del algoritmo
+step_by_step_explanation_title=Explicación de la ejecución del algoritmo
+
+visibility_representation_dual_graph_title=Grafo Dual
+visibility_representation_diagram_title=Representación de Visibilidad
+
+algorithm_dialog_message=Es imposible aplicar el algoritmo.\nVentana actual no es un Editor de Grafo.
+
+visibility_representation_algorithm_step_dual=Paso 1- Construcción del grafo dual G* planar.
+visibility_representation_algorithm_step_topo_num_graph_y=Paso 2- Cálculo de una numeración topológica Y del grafo G.
+visibility_representation_algorithm_step_topo_num_dual_x=Paso 3- Cálculo de una numeración topológica X de G*.
+visibility_representation_algorithm_step_horizontal_vertices=Paso 4- Para cada vértice v de G dibujar el segmento-vértice entre las coordenadas X(left(v)) y X(right(v)) - 1 del eje x y en la coordenada Y(v) del eje y. 
+visibility_representation_algorithm_step_vertical_edges=Paso 5- Para cada arista e de G dibujar el segmento-arista en la coordenada X(left(e)) del eje x y entre las coordenadas Y(orig(e)) e Y(dest(e)) del eje y.

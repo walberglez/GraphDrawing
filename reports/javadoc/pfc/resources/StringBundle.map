@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../models/algorithms/constrainedpolyline/ConstrainedPolylineAlgorithm.html" title="pfc.models.algorithms.constrainedpolyline.ConstrainedPolylineAlgorithm" alt="" coords="15,180,881,452"/>
+<area shape="rect" id="node1" href="../models/algorithms/constrainedpolyline/ConstrainedPolylineAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="5,175,891,457"/>
+<area shape="rect" id="node2_1" href="../models/algorithms/constrainedvisrep/ConstrainedVisRepAlgorithm.html" title="pfc.models.algorithms.constrainedvisrep.ConstrainedVisRepAlgorithm" alt="" coords="857,702,1519,1106"/>
+<area shape="rect" id="node2" href="../models/algorithms/constrainedvisrep/ConstrainedVisRepAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="847,697,1529,1111"/>
+<area shape="rect" id="node8_2" href="./StringBundle.html" title="pfc.resources.StringBundle" alt="" coords="1953,1187,2127,1271"/>
+<area shape="rect" id="node8" href="./StringBundle.html" title="&lt;TABLE&gt;" alt="" coords="1942,1182,2138,1277"/>
+<area shape="rect" id="node3_3" href="../models/algorithms/orthogonal/OrthogonalAlgorithm.html" title="pfc.models.algorithms.orthogonal.OrthogonalAlgorithm" alt="" coords="926,11,1770,621"/>
+<area shape="rect" id="node3" href="../models/algorithms/orthogonal/OrthogonalAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="915,6,1781,626"/>
+<area shape="rect" id="node4_4" href="../models/algorithms/polyline/UpwardPolylineAlgorithm.html" title="pfc.models.algorithms.polyline.UpwardPolylineAlgorithm" alt="" coords="1816,180,2477,452"/>
+<area shape="rect" id="node4" href="../models/algorithms/polyline/UpwardPolylineAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="1805,175,2488,457"/>
+<area shape="rect" id="node7_5" href="../models/algorithms/visibilityrepresentation/VisibilityRepresentationAlgorithm.html" title="pfc.models.algorithms.visibilityrepresentation.VisibilityRepresentationAlgorithm" alt="" coords="1615,724,2150,1084"/>
+<area shape="rect" id="node7" href="../models/algorithms/visibilityrepresentation/VisibilityRepresentationAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="1605,719,2161,1089"/>
+<area shape="rect" id="node5_6" href="../models/algorithms/polylinedominance/PolylineDominanceAlgorithm.html" title="pfc.models.algorithms.polylinedominance.PolylineDominanceAlgorithm" alt="" coords="2523,187,3007,445"/>
+<area shape="rect" id="node5" href="../models/algorithms/polylinedominance/PolylineDominanceAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="2513,182,3018,450"/>
+<area shape="rect" id="node6_7" href="../models/algorithms/sldominance/SLDominanceAlgorithm.html" title="pfc.models.algorithms.sldominance.SLDominanceAlgorithm" alt="" coords="2247,680,2705,1128"/>
+<area shape="rect" id="node6" href="../models/algorithms/sldominance/SLDominanceAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="2237,675,2715,1133"/>
+</map>

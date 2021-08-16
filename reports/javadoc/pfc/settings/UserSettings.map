@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../models/ObservableModel.html" title="pfc.models.ObservableModel" alt="" coords="16,114,149,195"/>
+<area shape="rect" id="node1" href="../models/ObservableModel.html" title="&lt;TABLE&gt;" alt="" coords="5,109,160,201"/>
+<area shape="rect" id="node2_1" href="./UserSettings.html" title="pfc.settings.UserSettings" alt="" coords="181,358,592,1557"/>
+<area shape="rect" id="node2" href="./UserSettings.html" title="&lt;TABLE&gt;" alt="" coords="171,353,603,1562"/>
+<area shape="rect" id="node3_2" href="../utilities/graph/BipolarOrientationTarjanAlgorithm.html" title="pfc.utilities.graph.BipolarOrientationTarjanAlgorithm" alt="" coords="195,11,578,298"/>
+<area shape="rect" id="node3" href="../utilities/graph/BipolarOrientationTarjanAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="185,6,589,303"/>
+<area shape="rect" id="node4_3" href="../utilities/graph/BipolarOrientationPapamanthouAlgorithm.html" title="pfc.utilities.graph.BipolarOrientationPapamanthouAlgorithm" alt="" coords="624,19,1117,291"/>
+<area shape="rect" id="node4" href="../utilities/graph/BipolarOrientationPapamanthouAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="613,13,1128,296"/>
+</map>
