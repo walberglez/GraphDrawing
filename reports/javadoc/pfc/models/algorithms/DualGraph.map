@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../Vertex.html" title="pfc.models.Vertex" alt="" coords="730,2438,1297,2813"/>
+<area shape="rect" id="node1" href="../Vertex.html" title="&lt;TABLE&gt;" alt="" coords="720,2433,1308,2818"/>
+<area shape="rect" id="node2_1" href="../Graph.html" title="pfc.models.Graph" alt="" coords="54,430,966,1069"/>
+<area shape="rect" id="node2" href="../Graph.html" title="&lt;TABLE&gt;" alt="" coords="43,425,976,1074"/>
+<area shape="rect" id="node3_2" href="../Edge.html" title="pfc.models.Edge" alt="" coords="82,1667,905,2379"/>
+<area shape="rect" id="node3" href="../Edge.html" title="&lt;TABLE&gt;" alt="" coords="72,1661,916,2384"/>
+<area shape="rect" id="node5_3" href="./DualGraph.html" title="pfc.models.algorithms.DualGraph" alt="" coords="860,1128,1167,1608"/>
+<area shape="rect" id="node5" href="./DualGraph.html" title="&lt;TABLE&gt;" alt="" coords="850,1123,1178,1613"/>
+<area shape="rect" id="node4_4" href="./Rotation.html" title="pfc.models.algorithms.Rotation" alt="" coords="1122,1922,1529,2123"/>
+<area shape="rect" id="node4" href="./Rotation.html" title="&lt;TABLE&gt;" alt="" coords="1112,1917,1540,2129"/>
+<area shape="rect" id="node7_5" href="../../utilities/GeometryUtilities.html" title="pfc.utilities.GeometryUtilities" alt="" coords="1575,1806,2620,2239"/>
+<area shape="rect" id="node7" href="../../utilities/GeometryUtilities.html" title="&lt;TABLE&gt;" alt="" coords="1564,1801,2631,2245"/>
+<area shape="rect" id="node6_6" href="./visibilityrepresentation/VisibilityRepresentationAlgorithm.html" title="pfc.models.algorithms.visibilityrepresentation.VisibilityRepresentationAlgorithm" alt="" coords="494,11,1029,371"/>
+<area shape="rect" id="node6" href="./visibilityrepresentation/VisibilityRepresentationAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="484,5,1040,376"/>
+</map>

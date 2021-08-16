@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./RotationComparator.html" title="pfc.models.algorithms.RotationComparator" alt="" coords="202,1437,528,1565"/>
+<area shape="rect" id="node1" href="./RotationComparator.html" title="&lt;TABLE&gt;" alt="" coords="192,1432,538,1571"/>
+<area shape="rect" id="node2_1" href="./Rotation.html" title="pfc.models.algorithms.Rotation" alt="" coords="162,1177,568,1378"/>
+<area shape="rect" id="node2" href="./Rotation.html" title="&lt;TABLE&gt;" alt="" coords="151,1171,579,1383"/>
+<area shape="rect" id="node3_2" href="./NonIntersectingPathList.html" title="pfc.models.algorithms.NonIntersectingPathList" alt="" coords="100,725,630,1029"/>
+<area shape="rect" id="node3" href="./NonIntersectingPathList.html" title="&lt;TABLE&gt;" alt="" coords="90,720,640,1035"/>
+<area shape="rect" id="node4_3" href="./DualPathGraph.html" title="pfc.models.algorithms.DualPathGraph" alt="" coords="172,11,558,579"/>
+<area shape="rect" id="node4" href="./DualPathGraph.html" title="&lt;TABLE&gt;" alt="" coords="161,5,569,584"/>
+<area shape="rect" id="node6_4" href="./DirectedPath.html" title="pfc.models.algorithms.DirectedPath" alt="" coords="676,637,1057,1117"/>
+<area shape="rect" id="node6" href="./DirectedPath.html" title="&lt;TABLE&gt;" alt="" coords="665,632,1068,1123"/>
+<area shape="rect" id="node5_5" href="./DualGraph.html" title="pfc.models.algorithms.DualGraph" alt="" coords="1102,637,1409,1117"/>
+<area shape="rect" id="node5" href="./DualGraph.html" title="&lt;TABLE&gt;" alt="" coords="1092,632,1420,1123"/>
+</map>

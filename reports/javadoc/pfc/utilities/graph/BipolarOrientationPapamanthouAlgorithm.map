@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="../../models/Vertex.html" title="pfc.models.Vertex" alt="" coords="15,2371,582,2746"/>
+<area shape="rect" id="node1" href="../../models/Vertex.html" title="&lt;TABLE&gt;" alt="" coords="5,2366,593,2751"/>
+<area shape="rect" id="node2_1" href="../../models/Graph.html" title="pfc.models.Graph" alt="" coords="296,617,1208,1255"/>
+<area shape="rect" id="node2" href="../../models/Graph.html" title="&lt;TABLE&gt;" alt="" coords="285,611,1219,1261"/>
+<area shape="rect" id="node3_2" href="../../models/Edge.html" title="pfc.models.Edge" alt="" coords="347,1600,1170,2312"/>
+<area shape="rect" id="node3" href="../../models/Edge.html" title="&lt;TABLE&gt;" alt="" coords="337,1595,1181,2317"/>
+<area shape="rect" id="node4_3" href="../../settings/UserSettings.html" title="pfc.settings.UserSettings" alt="" coords="1305,331,1831,1541"/>
+<area shape="rect" id="node4" href="../../settings/UserSettings.html" title="&lt;TABLE&gt;" alt="" coords="1294,325,1842,1547"/>
+<area shape="rect" id="node5_4" href="../GeometryUtilities.html" title="pfc.utilities.GeometryUtilities" alt="" coords="1877,719,2923,1153"/>
+<area shape="rect" id="node5" href="../GeometryUtilities.html" title="&lt;TABLE&gt;" alt="" coords="1867,714,2933,1158"/>
+<area shape="rect" id="node6_5" href="./BipolarOrientationPapamanthouAlgorithm.html" title="pfc.utilities.graph.BipolarOrientationPapamanthouAlgorithm" alt="" coords="581,11,923,271"/>
+<area shape="rect" id="node6" href="./BipolarOrientationPapamanthouAlgorithm.html" title="&lt;TABLE&gt;" alt="" coords="571,6,933,277"/>
+</map>

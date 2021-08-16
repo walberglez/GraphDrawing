@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="GraphDrawing.javadocs" default="javadocs" basedir=".">
+	<!-- global properties -->
+	<property name="src" value="${basedir}/src" />
+	<property name="reports" value="${basedir}/reports/javadoc" />
+
+	<path id="classpath">
+		<fileset dir="${java.home}/lib/" includes="**/*.jar" />
+	</path>
+
+	<target name="javadocs" description="generates javadoc and also UML Diagram">
+		<!-- create report directory -->
+		<mkdir dir="${reports}" />
+		<!-- run javadoc using UmlGraphDoc -->
+		<javadoc sourcepath="${src}" packagenames="pfc.*" destdir="${reports}" classpathref="classpath" private="true">
+			<doclet name="org.umlgraph.doclet.UmlGraphDoc" path="lib/UMLGraph.jar">
+				<!--
+				<param name="-inferdep" />
+				<param name="-inferreltype" />
+				<param name="-inferrel" />
+				-->
+				<param name="-all" />
+				
+				<param name="-qualify" />
+				<param name="-postfixpackage" />
+				<param name="-collpackages" value="java.util.*" />
+				<param name="-collapsible" />
+				<param name="-hide" value="java.*" />
+				<param name="-nodefontsize" value="9" />
+				<param name="-nodefontpackagesize" value="7" />
+				
+				<param name="-link" value="http://java.sun.com/j2se/1.5.0/docs/guide/javadoc/doclet/spec" />
+				<param name="-link" value="http://java.sun.com/j2se/1.5/docs/api" />
+			</doclet>
+		</javadoc>
+
+		<apply executable="dot" dest="${reports}" parallel="false">
+			<arg value="-Tpng" />
+			<arg value="-o" />
+			<arg value="-Gratio=0.7" />
+			<arg value="-Eminlen=2" />
+			<targetfile />
+			<srcfile />
+			<fileset dir="${reports}" includes="*.dot" />
+			<mapper type="glob" from="*.dot" to="*.png" />
+		</apply>
+
+	</target>
+</project>
